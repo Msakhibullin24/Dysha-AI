@@ -1,11 +1,8 @@
-# GUI для [Soul-of-Waifu от jofizcd](https://github.com/jofizcd/Soul-of-Waifu)
-### Сейчас это единственная рабочая версия, ни [оригинал](https://github.com/jofizcd/Soul-of-Waifu) ни [lite-версия](https://github.com/Kajitsy/Soul-of-Waifu-Fork/tree/lite) не работают
+# Душа ИИ проверка версии пробно 
 
 На данный момент текстовая версия недоступна, возможно появится в будущем, но крайне не обещаю 
 
-Простенький интерфейс, пишите свои идеи либо в [дискорд создателя](https://discord.gg/6UvYzBKCZK) т.к. я там есть, либо в Issues 
 
-Хотите использовать голос от ElevenLabs? Вам [сюда](https://github.com/jofizcd/Soul-of-Waifu), хых
 # Что нужно для использования?
 - Python
 - Библиотеки:
